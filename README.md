@@ -1,5 +1,7 @@
 # FiveM-Loadingscreen1
-Når du skal bruge denne Loadingscreen, Skal du huske og skrive nogle ting.
+Når du skal bruge denne Loadingscreen, Skal du huske og ændre nogle ting.
+
+Kig nærmer her
 
 Rediger:
 1. Index.html = linje 7, Skift alle dem ud, hvor der står skift.
