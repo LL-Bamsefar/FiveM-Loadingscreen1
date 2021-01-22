@@ -13,4 +13,7 @@ FiveM:
 2. Så skal du starte/ensure Loadingscreen i server.cfg.
 3. Genstart serveren :)
 
+Billedet
+https://media.discordapp.net/attachments/561273472051970058/802309420600000552/unknown.png
+
 Hvis du har spørgsmål kan du kontakt mig på L.L Bamsefar#4685
